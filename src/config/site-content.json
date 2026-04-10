@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "记录个人的项目, 论文, 个人笔记等.",
 		"username": "NaoTomori"
 	},
 	"theme": {
@@ -45,23 +45,23 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/NaoTomori223",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "yanchiliu223@gmail.com",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "button-1775806778702",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/3706955505863105?spm_id_from=333.337.0.0",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
