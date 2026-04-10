@@ -4,7 +4,7 @@
 		"year": 2026,
 		"image": "/images/project/f69eb7168a7afe80.png",
 		"url": "https://naotomori223.github.io/guess-number-game/",
-		"description": "实现了网页版猜数字游戏.",
+		"description": "基于html, css, js等前端技术栈, 实现了网页版猜数字游戏. 起初只是一个简单的Python小游戏, 只能呈现在控制台. 我经过一步一步地思考, 将这个简单的游戏呈现在了网页上, 有较好地用户体验感, 互动感.",
 		"tags": [
 			"HTML",
 			"CSS",
