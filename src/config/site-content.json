@@ -35,24 +35,24 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/NaoTomori223",
-			"label": "Github",
-			"order": 1
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "yanchiliu223@gmail.com",
 			"label": "",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "button-1775806778702",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/3706955505863105?spm_id_from=333.337.0.0",
 			"label": "",
+			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/NaoTomori223",
+			"label": "Github",
 			"order": 3
 		}
 	],
