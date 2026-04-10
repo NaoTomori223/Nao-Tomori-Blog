@@ -4,7 +4,7 @@
 		"year": 2026,
 		"image": "blob:https://nao-tomori-blog.vercel.app/7e53f1ab-3e21-40e3-a069-0fd4e21b63cf",
 		"url": "https://naotomori223.github.io/guess-number-game/",
-		"description": "实现了网页版猜数字游戏.",
+		"description": "基于html, css, js等前端技术栈, 实现了用户体验较好的猜数字游戏, 以网页的形式呈现给用户. 起初从简单的Python小游戏, 一步一步设想成为网页游戏. 优点如下: 有难度选择(容易, 中等, 困难); 有计时器; 能够储存每一回合所猜次数和时间, 并且展示前五成绩和最高和成绩; 开始游戏时背景为紫色, 猜对数字后背景变为绿色. 以上就是一些关于有较好用户体验的网页游戏.",
 		"tags": [
 			"HTML",
 			"CSS",
