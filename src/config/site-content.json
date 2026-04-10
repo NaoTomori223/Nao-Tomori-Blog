@@ -45,14 +45,14 @@
 			"id": "button-1775808304095",
 			"type": "weibo",
 			"value": "",
-			"label": "微博",
+			"label": "",
 			"order": 2
 		},
 		{
 			"id": "button-1775806778702",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/3706955505863105?spm_id_from=333.337.0.0",
-			"label": "bilibili",
+			"label": "",
 			"order": 3
 		},
 		{
