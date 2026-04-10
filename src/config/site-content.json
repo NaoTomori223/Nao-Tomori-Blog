@@ -42,18 +42,25 @@
 			"order": 1
 		},
 		{
+			"id": "button-1775808304095",
+			"type": "weibo",
+			"value": "",
+			"label": "微博",
+			"order": 2
+		},
+		{
 			"id": "button-1775806778702",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/3706955505863105?spm_id_from=333.337.0.0",
-			"label": "",
-			"order": 2
+			"label": "bilibili",
+			"order": 3
 		},
 		{
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/NaoTomori223",
 			"label": "Github",
-			"order": 3
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
