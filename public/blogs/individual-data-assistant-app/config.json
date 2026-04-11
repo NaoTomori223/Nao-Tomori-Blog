@@ -1,8 +1,13 @@
 {
   "title": "你以为你很忙, 其实只是被手机偷走了时间",
-  "tags": [],
+  "tags": [
+    "个人数据助手",
+    "开发",
+    "博客"
+  ],
   "date": "2026-04-11T10:16",
   "summary": "你不是不努力, 只是少了一个\"个人数据助手\"",
+  "cover": "/blogs/individual-data-assistant-app/27e00860b2c5a1aa.png",
   "hidden": true,
   "category": "博客"
 }
