@@ -1,11 +1,11 @@
 {
-  "title": "Python学习记录: 数据类型和运算符",
+  "title": "Python学习记录: 程序的流程控制, 组合数据类型和字符串及正则表达式",
   "tags": [
     "python",
     "总结"
   ],
-  "date": "2026-04-13T23:18",
-  "summary": "总结今天所学的Python语法: 保留字, 标识符, 变量, 常量, 数据类型, 运算符.",
+  "date": "2026-04-14T20:19",
+  "summary": "总结今日学习的内容, 这些知识口头重复, 详细笔记在思维导图里.",
   "cover": "/blogs/python-basis/e9c81cc13018ff21.png",
   "hidden": false,
   "category": "总结"
