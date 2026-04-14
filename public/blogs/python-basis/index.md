@@ -100,7 +100,7 @@ print("HelloWorld"[-10:-5:1]) --> Hello
 
 它们有什么区别?
 
-![image-20260414200145093](C:\Users\32479\AppData\Roaming\Typora\typora-user-images\image-20260414200145093.png)
+![](/blogs/python-basis/dc25ed523e0f60bf.png)
 
 list一些常用方法:
 
